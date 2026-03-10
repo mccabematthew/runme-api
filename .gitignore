@@ -1,0 +1,17 @@
+# Build artifacts
+bootstrap
+function.zip
+
+# Go
+*.exe
+*.test
+*.out
+/vendor/
+
+# Environment / secrets
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
